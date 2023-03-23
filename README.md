@@ -6,4 +6,5 @@ Este proyecto  esta desarrollado para la **Universidad Continental**
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-![LOGO UC](UC.)
+
+![LOGO UC](https://github.com/frankperezcardenas/prueba1/blob/main/UC.jpg)
