@@ -6,4 +6,4 @@ Este proyecto  esta desarrollado para la **Universidad Continental**
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-![alt text]()
+![LOGO UC](UC.)
